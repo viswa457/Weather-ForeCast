@@ -1,0 +1,21 @@
+{
+  "name": "+",
+  "version": "0.0.0",
+  "authors": [
+    "hs105133 <hemant.singh@techmahindra.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.14",
+    "angular-route": "~1.3.14",
+    "angular-resource": "~1.3.14",
+    "bootswatch": "~3.3.2"
+  }
+}
